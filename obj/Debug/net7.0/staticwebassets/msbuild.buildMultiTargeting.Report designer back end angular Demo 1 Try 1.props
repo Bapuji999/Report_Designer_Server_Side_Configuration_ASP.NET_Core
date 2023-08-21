@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Report designer back end angular Demo 1 Try 1.props" />
+</Project>
